@@ -30,6 +30,7 @@ I build fast, scalable, secure, and beautifully animated full-stack applications
     <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+
 ---
 
 # 💻 Tech Stack
